@@ -17,10 +17,11 @@ To practice modeling a simple signal-processing system and understand Simulink's
 
 ---
 
-## 📊 Output  
-The result is a sine wave scaled by a factor of 3, as seen in the Scope output.
+### 📈 Scope Output
 
----
+The graph below shows the original sine wave (x) and the amplified output (3x):
+
+![Scope Output](scope_output.png)
 
 ## 📁 File  
 - `Simple_Simulink_Model.slx`
