@@ -2,7 +2,8 @@
 
 This project is a basic simulation using Simulink where a sine wave is amplified using a Gain block and visualized using a Scope.
 
----
+![Simulink Model](simulink_model.png)
+
 
 ## 🎯 Objective  
 To practice modeling a simple signal-processing system and understand Simulink's visual simulation workflow.
